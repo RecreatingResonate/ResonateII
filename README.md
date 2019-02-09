@@ -1,3 +1,6 @@
+#Writen by the writer when she uploaded this:
+
+
 # ResonateII
 
 because if you ask a woman like me to release something enough she eventually gives in
