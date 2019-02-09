@@ -2,7 +2,7 @@
 Source to ResonateII, don't do anything dumb. I'm only reuploading it, orginally made by Gaia.
 
 To Justquant:
-I'm sorry you had an awful couple of years, hope things are going well for you. since it only took you a mere 18hrs to take down the source code you uploaded yourself, I took the librity of not only keeping a copy, but to share it amongst Malware REs. If you don't feel comfortable with this been public, tell me, I will listen. 
+I'm sorry you had an awful couple of years, hope things are going well for you. since it only took you a mere 18hrs to take down the source code you uploaded yourself, I took the librity of not only keeping a copy, but to share it amongst Malware REs. If you don't feel comfortable with this been public, tell me (under issues), I will listen. 
 
 
 To Mareware reverse engineers:
