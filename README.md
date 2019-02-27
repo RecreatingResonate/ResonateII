@@ -14,7 +14,7 @@ For an demo of the virus: https://www.youtube.com/watch?v=jhcaSKGY69s
 I am NOT the person who made the video, All credit to Danooct1
 
 To MS Malware submission team and local internet law re-enforcers:
-This malware has no spreading routine, so if it spreads, some genius has hevily modified it.
+This malware has no spreading routine, so if it spreads, some genius has hevily modified it, thus I hold minimal liability for the damage done, im only hosting a half completed project. 
 
 
 
